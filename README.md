@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namorgha&label=Profile%20views&color=0e75b6&style=flat" alt="namorgha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nassrelah amorgha" target="blank"><img src="https://img.shields.io/twitter/follow/nassrelah amorgha?logo=twitter&style=for-the-badge" alt="nassrelah amorgha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nassrelah" target="blank"><img src="https://img.shields.io/twitter/follow/nassrelah?logo=twitter&style=for-the-badge" alt="nassrelah" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nassrelah amorgha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nassrelah amorgha" height="30" width="40" /></a>
+<a href="https://twitter.com/nassrelah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nassrelah" height="30" width="40" /></a>
 <a href="https://fb.com/amorgha nassrelah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amorgha nassrelah" height="30" width="40" /></a>
 <a href="https://instagram.com/amorghanassrelah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amorghanassrelah" height="30" width="40" /></a>
 </p>
