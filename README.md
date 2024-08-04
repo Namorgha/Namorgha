@@ -1,4 +1,8 @@
 ---
-![1056646-widescreen-arch-linux-wallpaper-2560x1440](https://github.com/user-attachments/assets/7b0f3cc9-1e3d-49c5-844d-5978f5fdc4eb)
+![1056646-widescreen-arch-linux-wallpaper-2560x1440](https://github.com/user-attachments/assets/237613fd-0023-4922-b026-cca1eb9616ba)
 
 ---
+
+# About Me
+
+I'am Nasro Namorgha, a 23-year-old student at the 42 Network, is passionate about cybersecurity, Web Development and artificial intelligence. With a strong interest in cutting-edge technologies, I'am dedicated to exploring and mastering the complexities of these fields.
