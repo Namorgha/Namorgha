@@ -46,6 +46,6 @@ def 42/1337 Projects() -> None:
 
 42/1337 Projects()
 ```
-For more information about the **42 Network** where I follow my studies, feel free to check this repository [42/1337](https://github.com/namorgha/42_network)
+For more information about the **42 Network** where I follow my studies, feel free to check this repository [42/1337](https://github.com/Namorgha/42-Network)
 
 ---
