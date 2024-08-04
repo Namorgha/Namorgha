@@ -1,13 +1,17 @@
 ---
+<a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=%2323F715&width=435&lines=Hi%2C+I%E2%80%99m+Nassro!;Developer+%26+Tech+Enthusiast.;Check+out+my+projects!;Let's+connect!" alt="Typing SVG" />
+    </a>
+
+
+---
 
 ![hello](https://github.com/user-attachments/assets/e3590807-9483-4c68-af82-f5411d0bf015)
 
 
 ---
 
-# About Me
-
-![](https://komarev.com/ghpvc/?username=namorgha&abbreviated=true)
+# Whomai
 
 I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-reseau-mondial/), is passionate about cybersecurity, Web Development and artificial intelligence. With a strong interest in cutting-edge technologies, I'am dedicated to exploring and mastering the complexities of these fields.
 
@@ -54,17 +58,20 @@ I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-
 
 # Projects
 
-```python
-def 42/1337 Projects() -> None:
-  projects = [
-      'Libft',
-      'Philosophers'
-      'Get_Next_line'
-      'Printf'
-  ]
+<pre>
+<div align = "center">
+┌──────┤ 42/1337 PROJECTS ├──────┐
+<a href="https://github.com/amaitou/ft_printf">ft_printf</a> 
+├────────────────────────────────┤
+    <a href="https://github.com/amaitou/get_next_line">get_next_line</a>
+├────────────────────────────────┤
+<a href="https://github.com/amaitou/push_swap">push_swap</a>
+├────────────────────────────────┤
+   <a href="https://github.com/amaitou/Philosophers">Philosophers</a>
+└────────────────────────────────┘
+</div>
+</pre>
 
-42/1337 Projects()
-```
 For more information about the **42 Network** where I follow my studies, feel free to check this repository [42/1337](https://github.com/Namorgha/42-Network)
 
 ---
