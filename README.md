@@ -1,5 +1,8 @@
 ---
-![nano](https://github.com/user-attachments/assets/cf633242-2094-42f3-ac15-07bbc10bb66a)
+
+![hello](https://github.com/user-attachments/assets/e3590807-9483-4c68-af82-f5411d0bf015)
+
+
 ---
 
 # About Me
