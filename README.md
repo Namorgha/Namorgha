@@ -7,4 +7,4 @@
 
 ![](https://komarev.com/ghpvc/?username=namorgha&abbreviated=true)
 
-I'am Nasro Namorgha, a 23-year-old student at the 42 Network, is passionate about cybersecurity, Web Development and artificial intelligence. With a strong interest in cutting-edge technologies, I'am dedicated to exploring and mastering the complexities of these fields.
+I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-reseau-mondial/), is passionate about cybersecurity, Web Development and artificial intelligence. With a strong interest in cutting-edge technologies, I'am dedicated to exploring and mastering the complexities of these fields.
