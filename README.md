@@ -1,6 +1,5 @@
 ---
-![1056646-widescreen-arch-linux-wallpaper-2560x1440](https://github.com/user-attachments/assets/237613fd-0023-4922-b026-cca1eb9616ba)
-
+![nano](https://github.com/user-attachments/assets/cf633242-2094-42f3-ac15-07bbc10bb66a)
 ---
 
 # About Me
