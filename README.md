@@ -30,3 +30,19 @@ I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-
 |:-:|:-:|
 
 </div>
+
+---
+
+# Projects
+
+```python
+def 42/1337 Projects() -> None:
+  projects = [
+      'Libft',
+      'Philosophers'
+      'Get_Next_line'
+      'Printf'
+  ]
+
+42/1337 Projects()
+```
