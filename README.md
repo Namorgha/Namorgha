@@ -3,7 +3,6 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=%2323F715&width=435&lines=Hi%2C+I%E2%80%99m+Nassro!;Developer+%26+Tech+Enthusiast.;Check+out+my+projects!;Let's+connect!" alt="Typing SVG" />
     </a>
 
-
 ---
 
 ![hello](https://github.com/user-attachments/assets/e3590807-9483-4c68-af82-f5411d0bf015)
@@ -13,7 +12,7 @@
 
 # Whomai
 
-I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-reseau-mondial/), is passionate about cybersecurity, Web Development and artificial intelligence. With a strong interest in cutting-edge technologies, I'am dedicated to exploring and mastering the complexities of these fields.
+I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-reseau-mondial/), I'am passionate about cybersecurity, Web Development and artificial intelligence. With a strong interest in cutting-edge technologies, I'am dedicated to exploring and mastering the complexities of these fields.
 
   ---
 
