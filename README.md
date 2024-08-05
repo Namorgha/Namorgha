@@ -76,5 +76,3 @@ For more information about the **42 Network** where I follow my studies, feel fr
 ---
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=hard&duration=4000&pause=2000&color=35F724&vCenter=true&width=486&height=103&lines=Appreciate+your+visit!;Happy+coding!+%F0%9F%98%8A" alt="Typing SVG" /></a>
 ---
-![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
----
