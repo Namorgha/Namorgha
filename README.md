@@ -43,18 +43,50 @@ I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-
 
 # Languages & Technologies
 
-<div align = "center">
+<br />
 
-  [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
-  [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://docs.djangoproject.com/en/5.0/)
-  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/guides/docker-overview/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](http://github.com/)
-  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
-  [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/fr-fr/)
-
+<div align="center">
+  <table style="border-spacing: 0; width: 90%; max-width: 500px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <thead style="background-color: #4CAF50; color: white;">
+      <tr>
+        <th style="padding: 9px; text-align: center;">Programming</th>
+        <th style="padding: 9px; text-align: center;">Markup</th>
+        <th style="padding: 9px; text-align: center;">DevOps</th>
+        <th style="padding: 9px; text-align: center;">Design</th>
+      </tr>
+    </thead>
+    <tbody style="background-color: #f9f9f9;">
+      <tr>
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" style="width: 70px;"/>
+            <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="width: 70px; margin: 5px;"/>
+            <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="width: 70px; margin: 5px;"/>
+            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="width: 70px; margin: 5px;"/>
+          </div>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+            <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="width: 70px;"/>
+            <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="width: 60px;"/>
+          </div>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+            <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="width: 70px;"/>
+            <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="width: 70px;"/>
+            <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="width: 50px;"/>
+          </div>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+            <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" style="width: 70px;"/>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
 
 ---
 
