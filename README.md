@@ -75,3 +75,5 @@ I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-
 For more information about the **42 Network** where I follow my studies, feel free to check this repository [42/1337](https://github.com/Namorgha/42-Network)
 
 ---
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=hard&duration=4000&pause=2000&color=35F724&vCenter=true&width=486&height=103&lines=Appreciate+your+visit!;Happy+coding!+%F0%9F%98%8A" alt="Typing SVG" /></a>
+---
