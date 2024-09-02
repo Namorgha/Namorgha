@@ -95,13 +95,13 @@ I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-
 <pre>
 <div align = "center">
 ┌──────┤ 42/1337 PROJECTS ├──────┐
- <a href="https://github.com/amaitou/ft_printf">ft_printf</a> 
+ <a href="https://github.com/namorgha/ft_printf">ft_printf</a> 
 ├────────────────────────────────┤
-    <a href="https://github.com/amaitou/get_next_line">get_next_line</a>
+    <a href="https://github.com/namorgha/get_next_line">get_next_line</a>
 ├────────────────────────────────┤
-<a href="https://github.com/amaitou/push_swap">push_swap</a>
+<a href="https://github.com/namorgha/push_swap">push_swap</a>
 ├────────────────────────────────┤
-   <a href="https://github.com/amaitou/Philosophers">Philosophers</a>
+   <a href="https://github.com/namorgha/Philosophers">Philosophers</a>
 └────────────────────────────────┘
 </div>
 </pre>
