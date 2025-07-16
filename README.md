@@ -49,10 +49,12 @@ I'm currently focused on SaaS platforms, collaborative tools, and performance-op
 </div>
 </pre>
 
+## 🚀 Own Projects
+
 <pre>
 <div align = "center">
 ┌──────┤ Own Projects ├──────────┐
-<a href="https://nanovers.org">🪐 Nanovers</a> – A gamified social platform built with React and Django.
+<a href="https://nanovers.org">🪐 Nanovers</a>
 └────────────────────────────────┘
 </div>
 </pre>
