@@ -44,18 +44,6 @@ Currently, I'm focused on SaaS development, collaborative platforms, and perform
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/P3r53u53)
 
 </div>
-
----
-
-# Github Stats
-
-<div align="center">
-
-| [![namorgha's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=namorgha&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/namorgha?tab=repositories) | [![namorgha's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=namorgha&layout=compact&hide_border=true&theme=jolly)](https://github.com/namorgha?tab=repositories) |
-|:-:|:-:|
-
-</div>
-
 ---
 
 # Languages & Technologies
