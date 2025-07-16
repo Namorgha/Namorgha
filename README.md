@@ -29,7 +29,7 @@ I'm currently focused on SaaS platforms, collaborative tools, and performance-op
 - **Backend**: Django, Django REST Framework, Node.js
 - **Database**: PostgreSQL, SQLite
 - **Tools**: Git, Docker, WebSocket, Linux, Figma
-- **Other**: REST APIs, Responsive Design, SEO Fundamentals
+- **Additional Skills**: REST APIs, Responsive Design
 
 ---
 
@@ -52,7 +52,7 @@ I'm currently focused on SaaS platforms, collaborative tools, and performance-op
 <pre>
 <div align = "center">
 ┌──────┤ Own Projects ├──────────┐
- <a href="https://nanovers.org">Nanovers</a> 
+<a href="https://nanovers.org">🪐 Nanovers</a> – A gamified social platform built with React and Django.
 └────────────────────────────────┘
 </div>
 </pre>
@@ -60,5 +60,8 @@ I'm currently focused on SaaS platforms, collaborative tools, and performance-op
 For more information about the **42 Network** where I follow my studies, feel free to check this repository [42/1337](https://github.com/Namorgha/42-Network)
 
 ---
+Thanks for visiting my profile!  
+Let’s build something great together 🚀
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=hard&duration=4000&pause=2000&color=35F724&vCenter=true&width=486&height=103&lines=Appreciate+your+visit!;Happy+coding!+%F0%9F%98%8A" alt="Typing SVG" /></a>
 ---
