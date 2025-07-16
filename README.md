@@ -17,7 +17,7 @@ Hi, I'm Namorgha — a Full Stack Developer passionate about building real-world
 
 I specialize in modern JavaScript and Python stacks, mainly using **React**, **Django**, and **PostgreSQL**, and I enjoy turning ideas into scalable solutions. I studied at **1337 Med**, where I gained hands-on experience in software development and teamwork through project-based learning.
 
-Currently, I'm focused on SaaS development, collaborative platforms, and performance-optimized websites. I'm actively looking for an opportunity to grow as a **Full Stack Developer Intern**, especially at a company like **Devti Technologie** that builds innovative digital solutions.
+Currently, I'm focused on SaaS development, collaborative platforms, and performance-optimized websites. I'm actively looking for an opportunity to grow as a **Full Stack Developer Intern**
 
 > I love writing clean code, learning from others, and contributing to meaningful projects.
 
