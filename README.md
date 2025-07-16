@@ -23,6 +23,16 @@ Currently, I'm focused on SaaS development, collaborative platforms, and perform
 
   ---
 
+  
+### 🔧 Tech Stack
+- **Frontend**: React, Tailwind CSS, JavaScript (ES6+)
+- **Backend**: Django, Django REST Framework, Node.js
+- **Database**: PostgreSQL, SQLite
+- **Tools**: Git, Docker, WebSocket, Linux, Figma
+- **Other**: REST APIs, Responsive Design, SEO Fundamentals
+
+---
+
 # Contact Me
 
 <div align = "center">
