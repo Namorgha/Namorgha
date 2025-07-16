@@ -12,7 +12,14 @@
 
 # Whomai
 
-I'am Nasro Namorgha, a 23-year-old student at the [42 Network](https://42.fr/le-reseau-mondial/), I'am passionate about cybersecurity, Web Development and artificial intelligence. With a strong interest in cutting-edge technologies, I'am dedicated to exploring and mastering the complexities of these fields.
+
+Hi, I'm Namorgha — a Full Stack Developer passionate about building real-world web applications with clean architecture and great user experience.
+
+I specialize in modern JavaScript and Python stacks, mainly using **React**, **Django**, and **PostgreSQL**, and I enjoy turning ideas into scalable solutions. I studied at **1337 Med**, where I gained hands-on experience in software development and teamwork through project-based learning.
+
+Currently, I'm focused on SaaS development, collaborative platforms, and performance-optimized websites. I'm actively looking for an opportunity to grow as a **Full Stack Developer Intern**, especially at a company like **Devti Technologie** that builds innovative digital solutions.
+
+> I love writing clean code, learning from others, and contributing to meaningful projects.
 
   ---
 
