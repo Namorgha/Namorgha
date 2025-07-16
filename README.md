@@ -10,16 +10,16 @@
 
 ---
 
-# Whomai
+# 👋 Whoami
 
+Hi, I'm Namorgha — a Full Stack Developer passionate about building real-world web applications with clean architecture and a strong user experience.
 
-Hi, I'm Namorgha — a Full Stack Developer passionate about building real-world web applications with clean architecture and great user experience.
+I specialize in modern JavaScript and Python stacks, mainly using **React**, **Django**, and **PostgreSQL**. I studied at **1337 Med**, where I gained hands-on experience through rigorous, project-based learning.
 
-I specialize in modern JavaScript and Python stacks, mainly using **React**, **Django**, and **PostgreSQL**, and I enjoy turning ideas into scalable solutions. I studied at **1337 Med**, where I gained hands-on experience in software development and teamwork through project-based learning.
+I'm currently focused on SaaS platforms, collaborative tools, and performance-optimized web applications. I'm actively looking for opportunities to grow as a **Full Stack Developer Intern**.
 
-Currently, I'm focused on SaaS development, collaborative platforms, and performance-optimized websites. I'm actively looking for an opportunity to grow as a **Full Stack Developer Intern**
+> I enjoy writing clean code, learning from others, and contributing to meaningful projects.
 
-> I love writing clean code, learning from others, and contributing to meaningful projects.
 
   ---
 
