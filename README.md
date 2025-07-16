@@ -123,6 +123,14 @@ Currently, I'm focused on SaaS development, collaborative platforms, and perform
 </div>
 </pre>
 
+<pre>
+<div align = "center">
+┌──────┤ Own Projects ├──────┐
+ <a href="https://nanovers.org">Nanovers</a> 
+└────────────────────────────────┘
+</div>
+</pre>
+
 For more information about the **42 Network** where I follow my studies, feel free to check this repository [42/1337](https://github.com/Namorgha/42-Network)
 
 ---
