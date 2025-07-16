@@ -125,7 +125,7 @@ Currently, I'm focused on SaaS development, collaborative platforms, and perform
 
 <pre>
 <div align = "center">
-┌──────┤ Own Projects ├──────┐
+┌──────┤ Own Projects ├──────────┐
  <a href="https://nanovers.org">Nanovers</a> 
 └────────────────────────────────┘
 </div>
