@@ -75,7 +75,6 @@
   <a href="https://www.nginx.com/" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"></a>
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"></a>
   <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a>
 </p>
 
 ---
