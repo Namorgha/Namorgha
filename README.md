@@ -11,6 +11,9 @@
   <a href="https://www.42network.org/">
     <img src="https://img.shields.io/badge/42-000000?style=plastic&logo=42&logoColor=white" alt="42 Network" height="25px"/>
   </a>
+<p align="center"> 
+  <img src="https://badge.mediaplus.ma/greenbinary/namorgha" alt="namorgha's 42 stats" />
+</p>
 </p>
 
 ---
