@@ -26,7 +26,7 @@
 - 🌱 Currently learning **system design, advanced backend architecture, performance optimization**  
 - 🤝 Open to collaborate on **scaling systems, automotive data sourcing, production architecture**  
 - 💬 Ask me about **React, Django, Supabase, PostgreSQL, WebSockets, real‑time systems**  
-- 📫 How to reach me: **your@email.com**  
+- 📫 How to reach me: **nassrelahamorgha514@gmail.com**  
 - ⚡ Fun fact: **I build full platforms alone — from idea to production**  
 - 🎓 **42 Network** student – building robust, low‑level foundations
 
