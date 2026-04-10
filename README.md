@@ -22,7 +22,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-- 🔭 **Featured project** – [AutoCheck Morocco](https://nasro-dev-portfolio.vercel.app) – car history & inspection platform  
 - 🌱 Currently learning **system design, advanced backend architecture, performance optimization**  
 - 🤝 Open to collaborate on **scaling systems, automotive data sourcing, production architecture**  
 - 💬 Ask me about **React, Django, Supabase, PostgreSQL, WebSockets, real‑time systems**  
